@@ -1,6 +1,6 @@
 # Теория спирального времени (Helical Time Compression, HTC)
 
-**Авторы:** Мунтян  
+**Авторы:** Фёдор Алексеевич Мунтян  
 **Дата:** 14 ноября 2025  
 **Лицензия:** MIT  
 **Репозиторий:** [github.com/ispolkom/HelicalTime](https://github.com/ispolkom/HelicalTime)
