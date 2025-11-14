@@ -1,4 +1,4 @@
-# Теория спирального времени (Helical Time Compression, HTC v6.1)
+# Теория спирального времени (Helical Time Compression, HTC)
 
 **Авторы:** Мунтян  
 **Дата:** 14 ноября 2025  
