@@ -334,31 +334,147 @@ ax.set_title('Спираль времени (Helical Time)')
 plt.tight_layout()
 plt.show()
 
-8. Фальсифицируемость
+# 8. Фальсифицируемость
 
 Теория будет опровергнута, если:
 
-не обнаружится связь между 
-h(τ)
-h(τ) и 
-ρm,ρg
-ρ
-m
-	​
+- **не обнаружится связь** между шагом времени \(h(\tau)\) и плотностью \(\rho_m, \rho_g\);
+- **не будет найден фазовый градиент времени** \(\Delta\phi(\theta)\) в трёхточечных экспериментах (VTT);
+- **не выявится роль интерференции волн** в формировании устойчивых структур материи;
+- **вектор времени \(\vec{v}_T\)** окажется несуществующим или не измеримым;
+- **не будет наблюдаться ускорение времени** в малоплотных областях и замедление — в плотных;
+- **спиральная траектория времени** не будет соответствовать данным clock-in-helix экспериментов.
 
-,ρ
-g
-	​
+Каждый пункт выражен в измеряемых величинах:
+- фазовые сдвиги,
+- изменения частоты,
+- разность хода часов,
+- интерференционные узлы,
+- спектральные линии,
+- градиенты плотности.
 
-,
+---
 
-не будет найден фазовый градиент времени 
-Δϕ(θ)
-Δϕ(θ) в трёхточечных экспериментах (VTT),
+# 9. Применение
 
-не выявится роль интерференции волн в формировании устойчивых структур,
+Теория HelicalTime применима в следующих областях:
 
-направление 
-v⃗T
-v
+- **космология** — моделирование происхождения структуры Вселенной как волнового процесса;
+- **физика материи** — описание плотности, формы, массы как интерференции волн;
+- **квантовые часы** — объяснение сверхмалых фазовых сдвигов и направленности времени;
+- **интерферометрия** — новые методики измерения \(\vec{v}_T\) и \(h(\tau)\);
+- **гравитационная физика** — модели плотностного замедления времени;
+- **симуляции реальности** — вычислительные модели вселенных с разным \(h(\tau)\), \(\rho_m\), \(\rho_g\).
 
+---
+
+# 10. Заключение
+
+Теория HelicalTime & Wave-Emergent Matter объединяет:
+
+- спиральную геометрию времени,
+- волновое происхождение материи,
+- плотностную динамику,
+- направление течения времени через \(\vec{v}_T\),
+- внешний импульс как источник времени,
+- естественную интерференцию четырёх фундаментальных волн.
+
+**Время — это волна.  
+Материя — это интерференция.  
+Вселенная — это фигура, которую рисуют колебания.**
+
+---
+
+# 11. Data & Code
+
+Все данные, графики, симуляции и код для воспроизведения результатов  
+планируется размещать в официальном репозитории:
+
+[HelicalTime](https://github.com/ispolkom/[HelicalTime](https://github.com/ispolkom/HelicalTime)
+
+
+- Лицензия: **MIT**  
+- Структура репозитория:
+  - `/docs` — теория, формулы, документация  
+  - `/simulations` — Python-код и визуализации  
+  - `/figures` — диаграммы (PNG/SVG/TikZ)  
+  - `/data` — промежуточные данные и результирующие файлы
+
+---
+
+# 12. Author Contributions
+
+**Фёдор Алексеевич Мунтян**:  
+- концепция спирального времени;  
+- волновой космогенез;  
+- идея интерференции фундаментальных волн;  
+- разработка векторной модели течения времени \(\vec{v}_T\);  
+- формирование структуры документа и теории;  
+- описание экспериментов: VTT, clock-in-helix.
+
+Техническое оформление, формулы, структурирование — выполнено в соответствии с исходной авторской концепцией.
+
+---
+
+# 13. Funding & Ethics
+
+- финансирование: отсутствует;  
+- конфликт интересов: отсутствует;  
+- разработано в исследовательских целях;  
+- свободное использование при соблюдении условий лицензии MIT.
+
+---
+
+# 14. Notation
+
+| Символ          | Значение                                   |
+|-----------------|--------------------------------------------|
+| \(R\)           | радиус спирали времени                     |
+| \(\omega\)      | угловая частота спирали                    |
+| \(h(\tau)\)     | шаг спирали (плотность времени)            |
+| \(\rho_m\)      | плотность материи                          |
+| \(\rho_g\)      | гравитационная плотность                   |
+| \(\rho\)        | суммарная плотность \(\rho_m + \rho_g\)    |
+| \(\Psi_i\)      | фундаментальные волны                      |
+| \(\hat{v}_T\)   | единичный вектор направления времени       |
+| \(v_T\)         | скорость течения времени                   |
+| \(v_t\)         | скорость распространения волны времени     |
+
+---
+
+# 15. References
+
+*(Позже рекомендуется перейти на BibTeX, здесь первичный список.)*
+
+1. Ramsey, N. – Phase Interferometry and Precision Timekeeping (1990).  
+2. Planck Collaboration – Cosmological Parameters (2018).  
+3. Weinberg, S. – Gravitation and Cosmology (1972).  
+4. Kibble, T. – Topology of cosmic domains and strings (1976).  
+5. Vilenkin, A., Shellard, E. – Cosmic Strings and Topological Defects (1994).
+
+---
+
+# Лицензия
+
+Данный документ и весь проект **HelicalTime** распространяются по лицензии **MIT**.
+
+Copyright (c) 2025  
+**Фёдор Алексеевич Мунтян**
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this document and associated files (the “Software”), to deal in the
+Software without restriction, including without limitation the rights  
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
+copies of the Software, and to permit persons to whom the Software is  
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in  
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN  
+THE SOFTWARE.
