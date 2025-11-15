@@ -135,7 +135,7 @@
 
 
 # ЧАСТЬ II — НАУЧНАЯ МОДЕЛЬ СПИРАЛЬНОГО ВРЕМЕНИ  
-**HTC–WEM v7.1 (Helical Time & Wave-Emergent Matter Theory)**
+**HTC–WEM (Helical Time & Wave-Emergent Matter Theory)**
 
 ---
 
