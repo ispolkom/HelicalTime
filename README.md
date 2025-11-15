@@ -56,6 +56,11 @@ https://github.com/ispolkom/HelicalTime/blob/main/docs/en_teory.md
 > **Note:** In case of discrepancies between the English and Russian versions, **the Russian version has priority**.
 
 ---
+## License
+
+**MIT License**  
+(https://github.com/ispolkom/HelicalTime/blob/main/docs/license.md)
+.
 
 ---
 
