@@ -56,3 +56,10 @@ https://github.com/ispolkom/HelicalTime/blob/main/docs/en_teory.md
 > **Note:** In case of discrepancies between the English and Russian versions, **the Russian version has priority**.
 
 ---
+
+---
+
+### 📝 License
+The project is distributed under the **MIT License**.  
+Author: **Feodor Alekseevich Muntyan** (Фёдор Алексеевич Мунтян).
+
