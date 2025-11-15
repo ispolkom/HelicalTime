@@ -39,3 +39,20 @@ You can think of this as a **wave of time** propagating through space:
 Just as light changes speed depending on optical density, **time adjusts its “density” depending on the density of matter and energy**. This is the central idea of HTC: *time is a physical process, not merely a parameter*.
 
 In HTC, the spiral pitch is expressed as **h(τ)**. It can be interpreted as a local propagation speed of temporal flow or a *temporal density indicator*. Near massive objects h(τ) decreases, slowing time. In empty space h(τ) increases, approaching its maximal value — straight, uncompressed time.
+
+
+---
+
+# Полные версии теории
+
+### Полная русская версия (CHAPTER I + CHAPTER II)  
+**Helical Time & Wave-Emergent Matter Theory (HTC–WEM)**  
+https://github.com/ispolkom/HelicalTime/blob/main/docs/ru_teory.md
+
+### Full English Version (CHAPTER I + CHAPTER II)  
+**Helical Time & Wave-Emergent Matter Theory (HTC–WEM)**  
+https://github.com/ispolkom/HelicalTime/blob/main/docs/en_teory.md
+
+> **Note:** In case of discrepancies between the English and Russian versions, **the Russian version has priority**.
+
+---
